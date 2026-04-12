@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code / Rider / VS
+.vs/
+.vscode/
+.idea/
+
+## OS
+.DS_Store
+Thumbs.db
